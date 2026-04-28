@@ -1,1 +1,1 @@
-# python-lesson-1
+Python o'rganish jarayoni
